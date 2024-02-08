@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Je2222
+👋 Hi, I’m @Je2222
 
 <!---
 Je2222/Je2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
